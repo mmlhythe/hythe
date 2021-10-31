@@ -1,3 +1,10 @@
+.myheader{
+    font-weight: 300;
+    font-size: "xx-small";
+    font-family: "cursive";
+
+}
+
 body{
     margin:0;
     padding:0;
