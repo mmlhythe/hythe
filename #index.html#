@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <style>
+
+
+    </style>
+
+    <head>
+        <title id = "title" >Puppies & Tea</title>
+        <script src="main.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <button onclick="printamessage();">press me!</button>
+        <header>
+            <h1 class="myheader" onclick = "changetitle();">Hello and Happy Upcoming Holidays!</h1>
+        </header>
+        
+        <nav>
+            <h2 class = "lalaland">This site is still being worked on but be sure to check back soon. :)
+                <a href="/html/">click here</a>
+            </h2>
+        </nav>
+
+        <article>
+            <h3 class = lalaland> What we are planning for the website:</h3>
+            <section>Basically, putting a bunch of random and fun things like chocolate cake recepies and pictures of Harry Potter from Harry Potter.</section>
+        </article>
+
+
+        <footer>
+            <p>To contact us, send an email to: *please don't it's not a real email!<br>
+                <a href="mailto:hege@example.com">someone@example.com</a>
+            </p>
+        </footer>
+
+
+        <h3 class = lalaland>Here are my top 5 graphic novel and manga reccomendations for ages 8-16:</h5>
+        <ol>
+            <li>Measuring Up (GN) by Lily LaMotte</li>
+            <li>Witches of Brooklyn (GN) by Sophie Escabase</li>
+            <li>The Tea Dragon Socsiety (GN) by Kay O'Neill</li>
+            <li>The Water Dragon's Bride (M) by Rei Toma</li>
+            <li>Haikiuu!! (M) by Haruichi Furudate</li>
+        </ol>
+        
+        <footer>
+          <p>Happy Reading!<br>
+
+
+
+	    
+        <h3 class = lalaland>Here are my top 5 tea  reccomendations for people who like teeea!6:</h5>
+        <ol>
+            <li>Hybiscus</li>
+            <li>Chamomile</li>
+            <li>Green (it's even better in mochi ice cream)</li>
+            <li>Pepermint</li>
+            <li>Lemonbalm</li>
+        </ol>
+        
+        <footer>
+          <p>Hope you like them!<br>
+
+
+
+    
+
+        <h3 class = "lalaland">This is a reference catalog (still working on it!)</h1>
+        <table style="width:30%">
+            <tr>
+                <th>Cake Type</th>
+                <th>Serves</th>
+                <th>Can be eaten with...</th>
+            </tr>
+
+            <tr>
+                <td>Chocolate B-Day Cake</td>
+                <td>About 12</td>
+		<td>Raspberries & whipped cream</td>
+	    </tr>
+
+	    <tr>
+		<td>Cheese Cake</td>
+                <td>Roughly 8</td>
+                <td>Blueberries & a tall glass of milk</td>
+	    </tr>
+
+	    <tr>
+		<td>Carrot Cake</td>
+                <td>10 people with generous portions</td>
+                <td>Buttercream cicing & clementine slices</td>
+        </table>
+
+
+        <img src="santorini.jpg" alt="Girl in a jacket" width="500" height="300"> 
+
+        <h2 class = lalaland>For more Halloween stuff, click
+            <a href="https://en.wikipedia.org/wiki/Halloween">here!</a>
+        </h1>
+
+        <h3 class = lalaland>This is an audio file (that doesn't work. sorry.)</h1>
+        <audio controls>
+            <source scr="rain.mp3" type="audio/mpeg">
+        </audio>
+
+        <h3 class = lalaland>This is an video file (ditto)</h1>
+        <video width="320" height="240" controls>
+            <source src="movie.mp4" type="video/mp4">
+        </video>
+
+    </body>
+</html>

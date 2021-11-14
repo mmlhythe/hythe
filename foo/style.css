@@ -1,0 +1,14 @@
+input{
+    border: none;
+    border-radius: 1px;
+    color: blue;
+    width: 1000px;
+    height: 1000px;
+    margin-top: 10px;
+    font-family:  'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 14px 20px;
+    text-align: left;
+    background-color: lightblue;
+    cursor: wait;
+}

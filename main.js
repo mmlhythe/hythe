@@ -13,3 +13,7 @@ if (password === password1){
 else{
     window.location = "https://google.com";
 }
+
+function changetitle(){
+    document.getElementById("title").innerHTML = "Tea & Puppies";
+}
