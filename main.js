@@ -1,7 +1,7 @@
 console.log("Hello world !!!");
 
 function printamessage() {
-    alert("My name is Bond");
+    alert("Unfortunantely. we are not currently open for suggestions. If you have any questions, comments or concerns, keep them to yourself. If you have a turtle named Tuck, tell him hi for me.");
 }
 
 var password;
